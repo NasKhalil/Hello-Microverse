@@ -1,7 +1,7 @@
 # Hello-Microverse
 > This is a simple example to master all the tools and best practices you learned about in previous steps
 
-![screenshot](./project_screenshot.png)
+![screenshot](./project_screenshot .png)
 
 ## Built With
 - HTML
