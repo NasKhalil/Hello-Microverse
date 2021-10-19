@@ -12,9 +12,9 @@
 
 To get a local copy up and running follow these simple example steps.
 
-1- create a new folder
-2- acccess the folder via command line
-3- run this under the command line: git clone https://github.com/NasKhalil/Hello-Microverse.git
+- create a new folder
+- acccess the folder via command line
+- run this under the command line: git clone https://github.com/NasKhalil/Hello-Microverse.git
 
 ## Author
 - GitHub: [@NasKhalil](https://github.com/NasKhalil)
