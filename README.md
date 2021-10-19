@@ -3,19 +3,23 @@
 
 ![screenshot](https://github.com/NasKhalil/Hello-Microverse/blob/project-initialize/project_screenshot%20.png)
 
+
 ## Built With
 - HTML
 - CSS
 
 ## Getting Started
 
+
 **Porject's features are added into seperate branch to keep main branch safe.**
+
 
 To get a local copy up and running follow these simple example steps.
 
 - create a new folder
 - acccess the folder via command line
 - run this under the command line: git clone https://github.com/NasKhalil/Hello-Microverse.git
+
 
 ### Prerequisites
 -Html
