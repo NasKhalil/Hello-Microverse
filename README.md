@@ -16,5 +16,5 @@ To get a local copy up and running follow these simple example steps.
 - acccess the folder via command line
 - run this under the command line: git clone https://github.com/NasKhalil/Hello-Microverse.git
 
-## Author
+👤 Author
 - GitHub: [@NasKhalil](https://github.com/NasKhalil)
