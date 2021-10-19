@@ -1,2 +1,2 @@
 # Hello-Microverse
-> One paragraph statement about the project.
+> This is a simple example to master all the tools and best practices you learned about in previous steps
