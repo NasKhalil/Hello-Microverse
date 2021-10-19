@@ -1,7 +1,7 @@
 # Hello-Microverse
 > This is a simple example to master all the tools and best practices you learned about in previous steps
 
-![screenshot](./project_screenshot.png)
+![screenshot](https://github.com/NasKhalil/Hello-Microverse/blob/project-initialize/project_screenshot%20.png)
 
 ## Built With
 - HTML
